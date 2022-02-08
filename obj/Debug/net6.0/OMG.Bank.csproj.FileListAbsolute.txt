@@ -1,0 +1,15 @@
+C:\Users\Eduardo Berlatto\ws-dotnet\ProjetoBanco\OMG.Bank\bin\Debug\net6.0\OMG.Bank.exe
+C:\Users\Eduardo Berlatto\ws-dotnet\ProjetoBanco\OMG.Bank\bin\Debug\net6.0\OMG.Bank.deps.json
+C:\Users\Eduardo Berlatto\ws-dotnet\ProjetoBanco\OMG.Bank\bin\Debug\net6.0\OMG.Bank.runtimeconfig.json
+C:\Users\Eduardo Berlatto\ws-dotnet\ProjetoBanco\OMG.Bank\bin\Debug\net6.0\OMG.Bank.dll
+C:\Users\Eduardo Berlatto\ws-dotnet\ProjetoBanco\OMG.Bank\bin\Debug\net6.0\ref\OMG.Bank.dll
+C:\Users\Eduardo Berlatto\ws-dotnet\ProjetoBanco\OMG.Bank\bin\Debug\net6.0\OMG.Bank.pdb
+C:\Users\Eduardo Berlatto\ws-dotnet\ProjetoBanco\OMG.Bank\obj\Debug\net6.0\OMG.Bank.csproj.AssemblyReference.cache
+C:\Users\Eduardo Berlatto\ws-dotnet\ProjetoBanco\OMG.Bank\obj\Debug\net6.0\OMG.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo Berlatto\ws-dotnet\ProjetoBanco\OMG.Bank\obj\Debug\net6.0\OMG.Bank.AssemblyInfoInputs.cache
+C:\Users\Eduardo Berlatto\ws-dotnet\ProjetoBanco\OMG.Bank\obj\Debug\net6.0\OMG.Bank.AssemblyInfo.cs
+C:\Users\Eduardo Berlatto\ws-dotnet\ProjetoBanco\OMG.Bank\obj\Debug\net6.0\OMG.Bank.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Berlatto\ws-dotnet\ProjetoBanco\OMG.Bank\obj\Debug\net6.0\OMG.Bank.dll
+C:\Users\Eduardo Berlatto\ws-dotnet\ProjetoBanco\OMG.Bank\obj\Debug\net6.0\ref\OMG.Bank.dll
+C:\Users\Eduardo Berlatto\ws-dotnet\ProjetoBanco\OMG.Bank\obj\Debug\net6.0\OMG.Bank.pdb
+C:\Users\Eduardo Berlatto\ws-dotnet\ProjetoBanco\OMG.Bank\obj\Debug\net6.0\OMG.Bank.genruntimeconfig.cache
